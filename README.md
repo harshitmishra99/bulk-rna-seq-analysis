@@ -1,3 +1,8 @@
+![R](https://img.shields.io/badge/R-4.0+-blue)
+![RNA-seq](https://img.shields.io/badge/RNA--seq-Transcriptomics-green)
+![DESeq2](https://img.shields.io/badge/DESeq2-Differential%20Expression-orange)
+![Salmon](https://img.shields.io/badge/Salmon-Quantification-red)
+
 # Bulk RNA-seq Analysis Pipeline
 
 A comprehensive bulk RNA-seq analysis workflow for transcriptomic data processing, quality assessment, differential expression analysis, data visualization, and biological pathway interpretation.
